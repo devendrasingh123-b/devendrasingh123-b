@@ -1,4 +1,4 @@
-![Coding Banner](https://raw.githubusercontent.com/pixeljeff-github/pixel-art-assets/main/coding-pixel-art-banner.png)
+https://raw.githubusercontent.com/pixeljeff-github/pixel-art-assets/main/coding-pixel-art-banner.png
 
 <h1 align="center">Hi 👋, I'm Devendra singh</h1>
 <p>Hey there! I'm Devendra — a full-stack developer who loves turning ideas into interactive, scalable web apps.
