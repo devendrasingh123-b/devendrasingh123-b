@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/pixeljeff-github/pixel-art-assets/main/coding-pixel-art-banner.png
+![Coding Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+
 
 <h1 align="center">Hi 👋, I'm Devendra singh</h1>
 <p>Hey there! I'm Devendra — a full-stack developer who loves turning ideas into interactive, scalable web apps.
