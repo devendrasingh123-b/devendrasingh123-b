@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, I'm Devendra singh</h1>
-<h3 align="center">who thrives at the intersection of logic and imagination. I love transforming ideas into interactive, user-focused web experiences that are not just functional but truly delightful.</h3>
+<h4>💫 About Me:</h4>
+<hr>
+<p>Hey there! I'm Devendra — a full-stack developer who loves turning ideas into interactive, scalable web apps.
+
+By day, I’m wiring up APIs, architecting real-time systems, and building snappy interfaces. By night, I’m probably debugging something that worked five minutes ago.
+
+I enjoy blending clean code with great UX, and I’m always chasing that perfect balance between functionality and polish. Lately, I’ve been diving deep into real-time tech, media servers, and building systems that feel... alive.
+
+Curious mind. Problem solver. Bit of a perfectionist. Let’s build something cool! 🚀</p>
+
+<h4>🎯 Motivations & Interests</h4>
+<hr>
+<p>I’m driven by the thrill of solving complex problems and crafting systems that feel effortless to use.
+Whether it’s architecting scalable backends, experimenting with new frontend animations, or fine-tuning real-time communication flows — I’m all in.</p>
+<h2>💡 What fuels me:</h2>
+<li>Building tech that connects people in real time</li>
+<li>Turning bold ideas into polished, production-ready products</li>
+<li>Constantly learning, tinkering, and pushing the limits of what the web can do</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
