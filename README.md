@@ -1,4 +1,5 @@
-![Coding Banner](https://i.imgur.com/xT4x3sD.png)
+![Coding Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+
 
 
 <h4>💫About me:</h4>
