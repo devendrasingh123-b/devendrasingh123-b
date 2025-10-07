@@ -1,7 +1,7 @@
 ![Coding Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
+<h4>💫About me:</h4>
 
-<h1 align="center">Hi 👋, I'm Devendra singh</h1>
 <p>Hey there! I'm Devendra — a full-stack developer who loves turning ideas into interactive, scalable web apps.
 
 By day, I’m wiring up APIs, architecting real-time systems, and building snappy interfaces. By night, I’m probably debugging something that worked five minutes ago.
