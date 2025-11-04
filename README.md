@@ -1,5 +1,5 @@
 <!-- ✅ Smaller Top Banner -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="850" alt="Coding Banner" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="650" alt="Coding Banner" />
 
 <h2>💫 About Me:</h2>
 
