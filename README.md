@@ -31,9 +31,7 @@ Whether it’s architecting scalable backends, experimenting with new frontend a
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
-  <a href="https://codepen.io/yes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" style="margin-right:10px;" />
-  </a>
+ 
   <a href="https://www.linkedin.com/in/devendra-singh-2681902b6" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Devendra Singh" height="30" width="40" style="margin-right:10px;" />
   </a>
